@@ -201,6 +201,7 @@ button {
         margin-top: 10px;
     }
     .content{
+        margin-bottom: 40px;
         margin-top: 32px;
         margin-right: 25px;
         flex-direction: row;
@@ -251,6 +252,7 @@ button {
         position: absolute;
         top: 0%;
         margin-top: 42px;
+        margin-bottom: 49px;
     }
     .container__title{
         margin-top: 0;
