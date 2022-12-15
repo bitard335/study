@@ -97,7 +97,6 @@ button {
     display: inline-block;
     left:0px;
     content: "";
-    vertical-align: middle;
     height: 40px;
     width: 4px;
     border-top-right-radius: 3px;
